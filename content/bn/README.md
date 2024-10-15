@@ -192,8 +192,8 @@ sudo launchctl load -w /Library/LaunchDaemons/limit.maxfiles.plist
 
 | Language                   | Language                   |
 | -------------------------- | -------------------------- |
-| [Bengali](README-bn.md)    | [Korean](../ko/README.md)     |
-| [Chinese](README-zh.md)    | [Polish](README-pl.md)     |
+| [Bengali](../bn/README.md)    | [Korean](../ko/README.md)     |
+| [Chinese](../zh-cn/README.md)    | [Polish](README-pl.md)     |
 | [French](README-fr.md)     | [Portuguese](README-pt.md) |
 | [German](README-de.md)     | [Russian](README-ru.md)    |
 | [Hindi](README-hi.md)      | [Spanish](README-es.md)    |
